@@ -1,0 +1,26 @@
+{
+  "name": "WebService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/WebService.js",
+  "homepage": "https://github.com/pauloch8/express-server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloch8/express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^25.2.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.0",
+    "supertest": "^4.0.2"
+  }
+}
